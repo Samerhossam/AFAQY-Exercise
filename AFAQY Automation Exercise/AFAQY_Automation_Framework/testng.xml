@@ -1,7 +1,0 @@
-<suite name="AutomationExerciseSuite">
-  <test name="SignupTest">
-    <classes>
-      <class name="tests.SignupTest"/>
-    </classes>
-  </test>
-</suite>
